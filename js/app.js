@@ -9,7 +9,12 @@ const userData = {
   "prefix": "",
   "surname": "Awan",
   "mugshot": "https://avatars.githubusercontent.com/u/60480091?s=460&u=b7fec0ee264245056576084de8bab2c68bf0e00e&v=4",
-  "githubHandle": "Awana1",
+  "githubHandle": "https://github.com/Awana1",
+  "skills": {
+    "html": 80,
+    "css": 80,
+    "js": 60
+  },
   "other": {
     "age": "23",
     "sport": "Fitness, Voetballen, Kickboxen",
@@ -17,6 +22,7 @@ const userData = {
     "muziek": "Hip-hop/rap",
     "werkplek": "Thuis"
   }
+
 }
 
 const postUserData = () => {
